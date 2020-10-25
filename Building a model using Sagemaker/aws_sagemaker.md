@@ -11,7 +11,7 @@ Next, you can check the various available [Amazon SageMaker ML Instance Types](h
 
 + Instances Required for Deep Learning (for this course) :
 
-[aws_sagemaker_instances](//TODO)
+![aws_sagemaker_instances](https://github.com/Adrianvegassanchez/machine-learning-engineer-udacity-nanodegree/blob/master/Building%20a%20model%20using%20Sagemaker/sagemaker_instances_for_ml.png?raw=true)
 
 In this course, the ml.m4.xlarge is needed at an early stage, while ml.p2.xlarge is needed only when working on the for the first project: Deploying a Sentiment Analysis Model.
 
